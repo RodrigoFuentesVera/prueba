@@ -26,3 +26,7 @@ Se conecta a una base de datos MySQL
     PRIMARY KEY (`identificador`));
     
     
+    ------- DOCUMENTACION --------
+    
+    La documentación del microservicio se encuentra en:
+    http://localhost:8080/swagger-ui.html
